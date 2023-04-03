@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Uniform Light";
+    src: url("./fonts/uniform/Uniform\ Light.ttf");
+}
+@font-face {
+    font-family: "Uniform";
+    src: url("./fonts/uniform/Uniform.ttf");
+}
+@font-face {
+    font-family: "Uniform Medium";
+    src: url("./fonts/uniform/Uniform\ Medium.ttf");
+}
+@font-face {
+    font-family: "Uniform Black";
+    src: url("./fonts/uniform/Uniform\ Black.ttf");
+}
+@font-face {
+    font-family: "Uniform Bold";
+    src: url("./fonts/uniform/Uniform\ Bold.ttf");
+}
+@font-face {
+    font-family: "Uniform Ultra";
+    src: url("./fonts/uniform/Uniform\ Ultra.ttf");
+}

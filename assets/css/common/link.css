@@ -1,0 +1,72 @@
+/*
+   Custom CSS for link page
+ */
+
+
+.container-table {
+    display: table;
+}
+
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.center-row {
+    display: table-cell;
+}
+
+.h_css {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.h_logo_img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.center-col {
+    float: none;
+    margin: 0 auto;
+}
+
+.form-section {
+    margin-top: 100px;
+}
+
+.profile-img {
+    max-width:100px;
+    max-height: 100px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.kfd-div {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.invalid-div {
+    margin-top: 100px;
+    margin-bottom: 30px;
+    min-height: 100px;
+}
+
+.h_bar {
+    background-color: #f89a20;
+}
+
+.pl-5 {
+    padding-left: 5px;
+}
+
+.form-submit-btn {
+    background-color: #daecf1;
+}

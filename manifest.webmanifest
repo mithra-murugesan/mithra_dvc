@@ -1,0 +1,15 @@
+{
+  "background_color": "#9e22e2",
+  "description": "Mithra Murugesan - Technical Lead, Anur Cloud Technologies",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/images/common/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "Mithra Murugesan (Anur)",
+  "short_name": "Mithra Murugesan",
+  "start_url": "index.html"
+}
